@@ -1,30 +1,86 @@
-# vue-music
+欢迎使用Sublime增强版
 
-> 实现的音乐播放器，自己也写了个~~~
+------------------------------------------------------------------------------------
+整合如下：
+1) 完全被汉化破解；
+2) 解决sublime中文乱码问题；
+3) 已经安装了下列插件,这些插件将使得您编写HTML、CSS、JavaScript、jQuery如虎添翼:
+	"Package Control",
+	"AndyJS2",
+	"function name display"
+	"BracketHighlighter",
+	"CompactExpandCss",
+	"Default File Type",
+	"ConvertToUTF8",
+	"GBK Encoding Support",
+	"Better Completion",
+	"ColorSchemeSelector"
+	"AdvancedNewFile",
+	"TrailingSpaces",
+	"AutoFileName",
+	"SublimeLinter",
+	"DocBlockr",
+	"HTMLPrettify",
+	"CodeIntel",
+	"Alignment",
+	"FileDiffs",
+	"Trimmer",
+	"Emmet",
+	"CSS3 Syntax",
+	"Autoprefixer",
+	"HTML5"
+	"jQuery",
+	"JQuery Mobile"
+	"bootstrap",
+	"Tag"
+	"太多了，就写到这里，不一一罗列了"
+4) 调整了软件的新建文档默认语法为html
 
-## 实现的功能：
-1. 排行榜
-2. 轮播图展示
-3. 搜索推荐
-4. 搜索歌曲
-5. 搜索专辑
-6. 搜索歌手
-7. 上一曲，下一曲，播放暂停
-8. 随机播放，循环播放，单曲播放
-9. 加入/删除播放列表，
-10. 查看专辑
-11. 查看歌手
+5）皮肤主题：
+1、Spacegra
+2、Numix
+3、Brogrammer
 
-## 源码和预览：
+--------------------------------------------
+在Sublime的基础上增加了部分功能：
 
-1. github：[戳这里](https://github.com/didiaochenmonan/qq-music)  **喜欢的加个star**
-2. 预览地址：[戳这里](http://y.yangapp.xyz)
-
-## UI图
-
-![1.png](./src/assets/images/2.png)![2.png](./src/assets/images/3.png)
-![3.png](./src/assets/images/4.png)![4.png](./src/assets/images/5.png)
-![5.png](./src/assets/images/6.png)![6.png](./src/assets/images/7.png)
-![7.png](./src/assets/images/8.png)![8.png](./src/assets/images/9.png)
-# qq-music
-# qq-music
+1、 新建文件模板(支持html、html5、css、js、php等)
+2、 快速生成html文档
+3、 设置默认浏览器打开
+4、 sublime右键浏览器打开
+5、 系统鼠标右键以sublime打开文件
+6、 侧边栏右键功能加强
+7、 语法加亮
+8、 Javsscript和jquery智能提示
+9、 HTML代码格式化
+10、CSS代码格式化
+11、emmet快速书写代码
+12、支持转换多种编码
+13、增强创建文件 默认快捷键 ctrl+alt+N
+14、自动补全文件(目录)名
+15、背景显示CSS 英文和16进制颜色
+16、生成注释模板
+17、集成了强大的调色盘
+18、代码错误提示
+19、支持Javascript、JQuery、Bootstrap、HTML5标签属性提示
+20、快捷刪除不必要的空白
+21、压缩css代码		快捷键：Ctrl+Shift+Alt+M
+22、压缩js代码		快捷键：Ctrl+Shift+Alt+M
+23、代码格式的自动对齐
+24、高亮显示多余的空格和Tab
+25、文件对比
+26、迅捷面板快速选择主题
+27、增强Sublime针对CSS的错误高亮
+28、CSS3 私有前缀自动补全插件(需要安装nodejs)
+29、右键快速新建任何语言格式文件
+30、可以在状态栏显示出当前光标处于哪个函数中
+31、配合Chrome 浏览器实现高效可视化开发，无刷新同步修改预览
+32、加入了HTML5元素提示
+33、安装了bootstrap
+34、支持移动开发框架jquery mobile
+35、在状态栏显示系统时间
+36、在状态栏显示最后修改时间，编码，文件大小等
+37、单词量实时计算，在状态栏显示
+38、支持多种编码保存
+--------------------------------------------------------------------
+本软件完全免费，不得出现任何收费行为！
